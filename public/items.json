@@ -1,18 +1,18 @@
 [
     {
-        "img": "/assets/images/icecream_yellow.png",
+        "img": "/itemsImages/icecream_yellow.png",
         "name": "Ice Cream Yellow",
         "prevPrice": "10,99",
         "curPrice": "5,99"
     },
     {
-        "img": "/assets/images/icecream_pink.png",
+        "img": "/itemsImages/icecream_pink.png",
         "name": "Pink Ice",
         "prevPrice": "12,99",
         "curPrice": "6,99"
     },
     {
-        "img": "/assets/images/icecream_blue.png",
+        "img": "/itemsImages/icecream_blue.png",
         "name": "Blue Ice",
         "prevPrice": "",
         "curPrice": "8,99"

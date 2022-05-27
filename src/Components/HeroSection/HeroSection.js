@@ -3,7 +3,7 @@ import { MdLocationOn, MdOutlineArrowForwardIos } from 'react-icons/md';
 import { FiArrowRight } from 'react-icons/fi';
 import { AiTwotoneStar } from 'react-icons/ai';
 import ReactStars from "react-rating-stars-component";
-import heroImg from '../../assets/images/header_img.png'
+import heroImg from '../../assets/Images/header_img.png'
 import './HeroSection.css';
 
 const HeroSection = () => {
